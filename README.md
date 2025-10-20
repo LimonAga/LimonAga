@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E407&width=435&lines=Hello%2C+I'm+LimonAga.;I+am+a+python+developer.;Have+a+%F0%9F%8D%8B.)](https://git.io/typing-svg)
 
-[Custom Divider](divider.png)
-
 ## 🛠️ Languages and Tools
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
